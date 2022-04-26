@@ -8,5 +8,12 @@ I decided that instead of trying to convince each school to let me install Pytho
 
 I guess on the plus side, I'm practicing JavaScript more?
 
+Some to-dos:
+- [] Change any class names, IDs, etc that remain from the template
+- [] Update the JS code to use classes
+- [] Streamline the code
+- [] Polish the UI a lot more 
+- [] Redo the colour scheme
+
 ### You can try it out [here](https://5unagawa.github.io/guess.html)
 _________________________________________________________________________________________________________________________________________________________________
